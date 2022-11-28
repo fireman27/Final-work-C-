@@ -54,5 +54,5 @@ string [] endArray = SortArray(startArray);
 Console.WriteLine("Первоначальный массив: ");
 PrintArray(startArray);
 Console.WriteLine();
-Console.WriteLine("Массив из значений <= 3 символам: ");
+Console.WriteLine("Новый массив из значений <= 3 символам: ");
 PrintArray(endArray);
