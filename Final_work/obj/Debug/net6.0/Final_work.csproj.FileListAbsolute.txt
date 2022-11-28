@@ -1,0 +1,15 @@
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\bin\Debug\net6.0\Final_work.exe
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\bin\Debug\net6.0\Final_work.deps.json
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\bin\Debug\net6.0\Final_work.runtimeconfig.json
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\bin\Debug\net6.0\Final_work.dll
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\bin\Debug\net6.0\Final_work.pdb
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.csproj.AssemblyReference.cache
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfoInputs.cache
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.AssemblyInfo.cs
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.dll
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\refint\Final_work.dll
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.pdb
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\Final_work.genruntimeconfig.cache
+D:\Рабочий стол\Обучение\Язык C#\Final\Final_work\obj\Debug\net6.0\ref\Final_work.dll
