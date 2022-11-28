@@ -16,6 +16,29 @@ string [] startArray = new string [countArray];
 	}
 	return array;
 }
+string [] SortArray (string [] array)
+{
+	int countNecessaryValue = 0;
+	string arrayValue = string.Empty;
+	for (int i = 0; i < array.Length; i++)
+	{
+		arrayValue = array[i];
+		if (arrayValue.Length <= 3) countNecessaryValue++;
+	}
+
+	string [] endArray = new string [countNecessaryValue];
+	int index = 0;
+	for (int i = 0; i < array.Length; i++)
+	{
+		arrayValue = array[i];
+		if (arrayValue.Length <= 3)
+		{
+			endArray[index] = array[i];
+			index++;
+		}
+	}
+	return endArray;
+}
 
 void PrintArray (string [] array)
 {
@@ -27,6 +50,9 @@ void PrintArray (string [] array)
 }
 
 FillArray(startArray);
-
+string [] endArray = SortArray(startArray);
 Console.WriteLine("Первоначальный массив: ");
 PrintArray(startArray);
+Console.WriteLine();
+Console.WriteLine("Массив из значений <= 3 символам: ");
+PrintArray(endArray);
